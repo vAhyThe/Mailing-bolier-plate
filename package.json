@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "gulp": "3.9.*",
+    "gulp-inline-css": "^3.0.1",
+    "gulp-livereload": "3.8.*",
+    "gulp-minify-html": "1.0.*",
+    "gulp-replace-task": "0.2.*"
+  }
+}
