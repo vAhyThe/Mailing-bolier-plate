@@ -12,7 +12,7 @@ gulp.task('process', function () {
             patterns: [
                 {
                     match: 'ctaLink',
-                    replacement: 'http://usertechnologies.com/'
+                    replacement: 'http://your-domain.com/'
                 }
             ]
         }))
