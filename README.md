@@ -24,7 +24,7 @@ Reference to [wiki](http://kb.joinut.com/doku.php?id=coder:quoran#kodovani_mailu
 
 ### step 3 Before coding
 
-* In `gulpfile.js` set your `ctaLink` to right address etc. "http://usertechnologies.com/ with some utm parameters". In code will look like `href="@@ctaLink"`.
+* In `gulpfile.js` set your `ctaLink` to right address etc. "http://your_domain.com with some utm parameters". In code will look like `href="@@ctaLink"`.
 
 ### step 5 Coding
 
